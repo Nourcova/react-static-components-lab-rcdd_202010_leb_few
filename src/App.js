@@ -9,7 +9,7 @@ class App extends Component {
 			<div className="App">
 				<CatComponent />
 				<GraceHopperQuoteComponent />
-				</MouseComponent>
+				<MouseComponent />
 				{/* one more component missing */}
 			</div>
 		);
